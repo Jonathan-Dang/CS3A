@@ -1,0 +1,4 @@
+#ifndef Z_WORK_REPORT_NODE_H_H
+#define Z_WORK_REPORT_NODE_H_H
+
+#endif // Z_WORK_REPORT_NODE_H_H
